@@ -1,0 +1,7 @@
+# IMGT site access 06-12-2020
+Homo sapiens|IGHJ1|F
+Homo sapiens|IGHJ2|F
+Homo sapiens|IGHJ3|F
+Homo sapiens|IGHJ4|F
+Homo sapiens|IGHJ5|F
+Homo sapiens|IGHJ6|F

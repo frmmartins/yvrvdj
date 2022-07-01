@@ -1,0 +1,24 @@
+# IMGT site access 06-12-2020
+Homo sapiens|IGHD1-1|F
+Homo sapiens|IGHD1-20|F
+Homo sapiens|IGHD1-26|F
+Homo sapiens|IGHD1-7|F
+Homo sapiens|IGHD2-15|F
+Homo sapiens|IGHD2-2|F
+Homo sapiens|IGHD2-21|F
+Homo sapiens|IGHD2-8|F
+Homo sapiens|IGHD3-10|F
+Homo sapiens|IGHD3-16|F
+Homo sapiens|IGHD3-22|F
+Homo sapiens|IGHD3-3|F
+Homo sapiens|IGHD3-9|F
+Homo sapiens|IGHD4-17|F
+Homo sapiens|IGHD4-4|F
+Homo sapiens|IGHD5-12|F
+Homo sapiens|IGHD5-18|F
+Homo sapiens|IGHD5-5|F
+Homo sapiens|IGHD6-13|F
+Homo sapiens|IGHD6-19|F
+Homo sapiens|IGHD6-25|F
+Homo sapiens|IGHD6-6|F
+Homo sapiens|IGHD7-27|F
